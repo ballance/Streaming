@@ -1,1 +1,3 @@
-A very simple OWIN hello world app.
+#Streaming
+
+An example app for a .NET presention on Streams in the CLR.
