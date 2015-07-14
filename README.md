@@ -1,3 +1,1 @@
-# Streaming
-
-Code for a demo on Streaming
+A very simple OWIN hello world app.
