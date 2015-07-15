@@ -50,6 +50,7 @@
     <Otherwise />
   </Choose>
   <ItemGroup>
+    <Compile Include="NetworkStreamerTests.cs" />
     <Compile Include="FileStreamerTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StreamFactory.cs" />

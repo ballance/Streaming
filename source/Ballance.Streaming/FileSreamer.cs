@@ -54,5 +54,13 @@ namespace Ballance.Streaming
         {
             return File.Open(string.Concat(basePath, fileName), FileMode.Open);
         }
+
+        public static void WriteStreamToFile(string filePath, Stream networkStream)
+        {
+            using (var fileStream = new FileStream(filePath, FileMode.Create))
+            {
+                networkStream.CopyTo(fileStream);
+            } 
+        }
     }
 }
