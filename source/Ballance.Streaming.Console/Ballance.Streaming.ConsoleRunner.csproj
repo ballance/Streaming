@@ -7,8 +7,8 @@
     <ProjectGuid>{680F7C87-1A44-4BA0-B691-B20611074C2F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Ballance.Streaming.Console</RootNamespace>
-    <AssemblyName>Ballance.Streaming.Console</AssemblyName>
+    <RootNamespace>Ballance.Streaming.ConsoleRunner</RootNamespace>
+    <AssemblyName>Ballance.Streaming.ConsoleRunner</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

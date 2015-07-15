@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ballance.Streaming.Library"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ballance.Streaming.Library.Tests", "Ballance.Streaming.Library.Tests\Ballance.Streaming.Library.Tests.csproj", "{703CCC39-4769-4E37-B171-C849B1DC9217}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ballance.Streaming.Console", "Ballance.Streaming.Console\Ballance.Streaming.Console.csproj", "{680F7C87-1A44-4BA0-B691-B20611074C2F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ballance.Streaming.ConsoleRunner", "Ballance.Streaming.Console\Ballance.Streaming.ConsoleRunner.csproj", "{680F7C87-1A44-4BA0-B691-B20611074C2F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
